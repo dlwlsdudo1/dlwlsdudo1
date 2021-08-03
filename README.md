@@ -24,7 +24,14 @@
 <img src="https://img.shields.io/badge/AdobePremiorePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/>
 <img src="https://img.shields.io/badge/AfterEffect-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
 <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-
+<br>
+  <h3> :eyes: My SNS :eyes:<h3>
+    ..Link Update Comming..
+ 
+<a href="https://www.#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/>&nbsp; </a>
+<a href="https://www.#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a>
+<a href="https://www.#"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=SoundCloud&logoColor=white"  width = 120px height = 30px/></a> &nbsp;
+<a href="https://www.#"><img src="https://img.shields.io/badge/ClubHouse-6515DD?style=flat-square&logo=ClubHouse&logoColor=white"  width = 120px height = 30px/></a> &nbsp;    
 
 <!--
 **dlwlsdudo1/dlwlsdudo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
