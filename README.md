@@ -6,7 +6,7 @@
 [![dlwlsdudo1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwlsdudo1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dlwlsdudo1)
 <br><br>
 
-<h3>My Skills<h3>
+<h3>:fire:My Skills:fire:<h3> 21.08.23Update
   <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Elastic-232F3E?style=flat-square&logo=Elastic&logoColor=white"/>
 
   <br>
- <h4>Sub Skills<h4>
+ <h4>:bow: Sub Skills:bow:<h4>
 <img src="https://img.shields.io/badge/AdobePremiorePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/>
 <img src="https://img.shields.io/badge/AfterEffect-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
 <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
