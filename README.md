@@ -9,6 +9,7 @@
 <h3>My Skills<h3>
   <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OracleDB-MySQL-red"/>
 
 <!--
 **dlwlsdudo1/dlwlsdudo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
