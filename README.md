@@ -1,4 +1,4 @@
-<!--### 찌이이잉뇽 👋-->
+<!--### -->
 
 <!-- 내일 업데이트-->
 ![dlwlsdudo1's github stats](https://github-readme-stats.vercel.app/api?username=dlwlsdudo1&show_icons=true)
@@ -18,6 +18,9 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Elastic-232F3E?style=flat-square&logo=Elastic&logoColor=white"/>
+<!--<img src="https://img.shields.io/badge/Django-232F3E?style=flat-square&logo=Django&logoColor=white"/>-->
+ 
+  
 
   <br>
  <h4>:bow: Sub Skills:bow:<h4>
