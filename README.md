@@ -1,4 +1,4 @@
-### 찌이이잉뇽 👋
+<!--### 찌이이잉뇽 👋-->
 
 <!-- 내일 업데이트-->
 ![dlwlsdudo1's github stats](https://github-readme-stats.vercel.app/api?username=dlwlsdudo1&show_icons=true)
