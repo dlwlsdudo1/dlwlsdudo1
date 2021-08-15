@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Elastic-232F3E?style=flat-square&logo=Elastic&logoColor=white"/>
-<!--<img src="https://img.shields.io/badge/Django-232F3E?style=flat-square&logo=Django&logoColor=white"/>-->
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
  
   
 
