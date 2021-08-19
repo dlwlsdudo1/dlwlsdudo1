@@ -6,7 +6,7 @@
 [![dlwlsdudo1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwlsdudo1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dlwlsdudo1)
 <br><br>
 
-<h3>:fire:My Skills:fire:<h3> 21.08.23Update
+<!-- <h3>:fire:My Skills:fire:<h3> 21.08.23Update -->
   <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
